@@ -117,7 +117,23 @@ export const songsData = [
         file: taalSeTaal,
         desc: "Album: Taal",
         duration: "3:00",
-      }
+      },
+      {
+        id: 4,
+        name: "Sadda Haq",
+        image: Rockstar,
+        file: sadaaHaq,
+        desc: "Album: Rockstar",
+        duration: "3:00",
+      },
+      {
+        id: 5,
+        name: "Phir Se Ud Chala",
+        image: Rockstar,
+        file: phrSeudChala,
+        desc: "Album: Rockstar",
+        duration: "3:00",
+      },
 ]
 
 
